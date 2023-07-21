@@ -1,5 +1,5 @@
 # TCP_Bank
-
+#### It currently only support on Linux
 At server directory
 - gcc server.c -o server
 - ./server
