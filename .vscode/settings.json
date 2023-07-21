@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "server_header.h": "c",
+        "bank.h": "c",
+        "avl.h": "c",
+        "z_library.h": "c",
+        "array": "c",
+        "*.tcc": "c",
+        "string": "c",
+        "vector": "c",
+        "string_view": "c",
+        "functional": "c",
+        "limits": "c",
+        "ostream": "c",
+        "streambuf": "c",
+        "tuple": "c"
+    }
+}

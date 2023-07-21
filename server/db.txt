@@ -1,0 +1,2 @@
+1001 Alex 959111111111 alex@gmail.com P@ssw0rd 12/MaBaNa(N)111111 Yangon Business 250000 0 80000 10000000 5000000 3_cash_in_money_$100000_at_Fri!Jul#21_22:52:56@2023 2_Send_Money_To_Bob_$20000_at_Fri!Jul#21_22:53:23@2023
+1002 Bob 959222222222 bob@gmail.com P@ssw0rd 12/MaBaNa(N)222222 Yangon Business 180000 30000 50000 10000000 5000000 2_Receive_Money_From_Alex_$20000_at_Fri!Jul#21_22:53:23@2023 1_updated_account_type_to_business_at_Fri!Jul#21_22:54:06@2023 4_loan_take_$30000_at_Fri!Jul#21_22:54:39@2023
